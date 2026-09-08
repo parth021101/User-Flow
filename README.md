@@ -15,11 +15,3 @@ A simple React app to create and manage users through a modal form, with client-
 - Tailwind CSS
 - lucide-react (icons)
 
-## Project Structure
-
-src/
-├── components/
-│ ├── Form.jsx # Add user modal + validation
-│ ├── UserData.jsx # Renders list of user cards
-│ └── NavBar.jsx # Top navigation with "Create User" button
-└── App.jsx # Root component, manages shared state
