@@ -1,17 +1,17 @@
-# User Flow
-
-A simple React app to create and manage users through a modal form, with client-side validation and a dynamic list view.
-
-## Features
-
-- Add new users via a modal form (Full Name, Email ID)
-- Client-side validation for required fields and email format
-- Users displayed as cards in a responsive list
-- 🚧 Coming soon: edit users, delete users, persist data (localStorage)
+## User Flow
+A React-based user management interface for creating and viewing users through a modal form with real-time validation.
 
 ## Tech Stack
+* React
+* Tailwind CSS
+* lucide-react (icons)
 
-- React
-- Tailwind CSS
-- lucide-react (icons)
+## Features
+* Modal-based "Create New User" form with overlay backdrop
+* Client-side validation for required fields and email format
+* Dynamic user list rendered as cards
+* Responsive card layout with profile icon, name, and email
+* 🚧 Coming soon: edit users, delete users, persist data (localStorage)
 
+Explore the live version of the User Flow app here:
+[your-deployed-link.netlify.app]()
